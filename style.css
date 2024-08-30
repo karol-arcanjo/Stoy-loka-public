@@ -7,10 +7,12 @@
 
 .section1 {
     background-color: brown;
-}
+    padding: 100px;
+
 
 .section2 {
     background-color: blueviolet;
+    padding: 100px;
 }
 
 
