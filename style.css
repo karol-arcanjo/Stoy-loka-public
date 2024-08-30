@@ -1,0 +1,26 @@
+.cabecalho {
+    background-color: blueviolet;
+    color: black;
+    display: flex;
+    padding: 24px 0;
+}
+
+.section1 {
+    background-color: brown;
+    padding: 100px;
+}
+
+
+.section2 {
+    background-color: blueviolet;
+    padding: 100px;
+}
+.section3{
+    background-color: aqua;
+    padding: 100px;
+}
+
+
+.cabecalho-imagem {
+    width: 20%;
+}
