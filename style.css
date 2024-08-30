@@ -20,7 +20,10 @@
     padding: 100px;
 }
 
-
 .cabecalho-imagem {
     width: 20%;
+}
+
+.rodape{
+    background-color: cadetblue;
 }
