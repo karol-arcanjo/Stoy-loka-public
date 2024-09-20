@@ -1,27 +1,35 @@
+x.corpodosite{
+color: white;
+}
 .cabecalho {
-    background-color: blueviolet;
-    color: black;
+    background-image: linear-gradient(gray,red);
+    color: pink;
     display: flex;
     padding: 24px 0;
+    font-size: x-large;
 }
 
 .section1 {
-    background-color: brown;
+    background-image: linear-gradient(gray,rgb(32, 31, 31.,black));
     padding: 100px;
+    font-size: x-large;
 }
 
 
 .section2 {
-    background-color: blueviolet;
+    background-image: linear-gradient(gray,rgb(32, 31, 31.,black));
     padding: 100px;
+    font-size: x-large;
 }
 .section3{
-    background-color: aqua;
+    background-image: linear-gradient(gray,rgb(32, 31, 31.,black));
     padding: 100px;
+    font-size: x-large;
 }
 
 .cabecalho-imagem {
     width: 20%;
+    font-size: x-large;
 }
 
 .rodape{
